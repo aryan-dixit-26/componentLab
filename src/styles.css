@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.breadcrum {
+  width: 100%;
+  text-align: left;
+}
+
+.crum {
+  display: inline;
+  margin: 2px;
+  /* border: 2px solid black; */
+}
+
+.link {
+  text-decoration: none;
+}
+
+.content {
+  width: 100%;
+  height: fit-content;
+  border: 2px solid black;
+  margin-top: 5px;
+}
